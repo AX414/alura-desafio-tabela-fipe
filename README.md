@@ -1,10 +1,18 @@
-# alura-desafio-tabela-fipe
+<html>
 
- Um projeto de desafio realizado pela alura para o curso "Java: trabalhando com lambdas, streams e Spring Framework Java: trabalhando com lambdas, streams e Spring Framework".
+# Desafio Alura: Tabela Fipe com Spring Framework
 
- --- 
+> <b>OBS.:</b> O repositório a seguir foi criado durante meus estudos para o curso "Java: trabalhando com lambdas, streams e Spring Framework" pela Alura 🚀. Logo abaixo é possível ver o enunciado do desafio 👨‍💻. 
 
- ![thumbnail-Desafio Java](https://github.com/jacqueline-oliveira/3257-java-desafio/assets/66698429/7d1ab66a-2a1c-48e8-825e-2b233c2c1aaa)
+> Eu não fui capaz de realizar o desafio sozinho, afinal eu apenas estava estudando, mas fiz minhas modificações do código também. Além disso, também deixei o link da minha certificação <a href="https://cursos.alura.com.br/certificate/577d3879-8f50-4ddd-a2db-e5b49bce94a8?lang=pt_BR"> aqui</a> 📄.
+
+
+
+<details>
+
+<summary>Proposta do Desafio</summary>
+
+![thumbnail-Desafio Java](https://github.com/jacqueline-oliveira/3257-java-desafio/assets/66698429/7d1ab66a-2a1c-48e8-825e-2b233c2c1aaa)
 
 
 # Desafio
@@ -80,3 +88,8 @@ https://parallelum.com.br/fipe/api/v1/carros/marcas/21/modelos/560/anos/2003-1
 
 
 Bom desafio!
+</details>
+
+ 
+ 
+</html>
